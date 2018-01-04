@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>refer</servlet-name>
+<servlet-class>Rfid_Out</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>refer</servlet-name>
+<url-pattern>/yes</url-pattern>
+</servlet-mapping>
+</web-app>
